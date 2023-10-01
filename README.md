@@ -1,6 +1,6 @@
 # PORTFÓLIO DO TAYLON
 
-## Oiii eu sou Francisco Taylon, criadora de conteúdo de programação e tecnologia!
+## Oiii eu sou Francisco Taylon, criador de conteúdo de programação e tecnologia!
 BRAZIL 🇧🇷
 
 <div style="display: inline_block"><br>
