@@ -1,6 +1,6 @@
 # Portfólio - Taylon
 Site: https://taylon-00.github.io/portfolio/
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=629CE3&size=35&center=true&vCenter=true&width=1000&lines=Oii,+me+chamo+Francisco+Taylon;+Criador+de+Conteúdo+de+Programação+e+Tecnologia!;Bem-Vindo(a)!+:%29;Segue+o+meu+Portfólio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=629CE3&size=35&center=true&vCenter=true&width=1000&lines=Oi,+me+chamo+Francisco+Taylon;Criador+de+Conteúdo+de+Programação+e+Tecnologia!;Bem-Vindo(a)!+:%29;Segue+o+meu+Portfólio)](https://git.io/typing-svg)
 
 ## Oiii eu sou Francisco Taylon, criador de conteúdo de programação e tecnologia!
 BRAZIL 🇧🇷
