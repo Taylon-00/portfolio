@@ -323,11 +323,12 @@
             <div class="fila">
                 <!-- Formulário -->
                 <div class="col">
-                  <form action="https://formsubmit.co/franciscotaylon2022@gmail.com" method="POST">
-                    <input type="text" placeholder="Seu Nome">
-                    <input type="text" placeholder="Seu Telefone">
-                    <input type="text" placeholder="Seu E-mail">
-                    <input type="text" placeholder="Assunto:">
+                  <form action="https://formsubmit.co/franciscotaylon2022@gmail.com" method="POST" autocomplete="on">
+                    <input maxlength="20" minlength="5" type="text" placeholder="Seu Nome" required />
+                    <input type="tel" id="itel" maxlength="15" 
+                    placeholder="(99) 9999-9999" pattern="(\([0-9]{2}\))\s([9]{1})?([0-9]{4})-([0-9]{4})">
+                    <input type="email" name="email" placeholder="Seu E-mail" autocomplete="email" required/>
+                    <input minlength="5" "text" placeholder="Assunto:">
                     <textarea name="" id="" cols="30" rows="10" placeholder="Mensagem"></textarea>
                     <button>
                         Enviar Mensagem <i class="fa-solid fa-paper-plane"></i>
