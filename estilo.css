@@ -543,7 +543,7 @@ a#button{
 }
 .contacto h2{
     font-size: 48px;
-    font-family: 'Righteous';
+    font-family: 'inherit';
     text-align: center;
     padding: 20px 0;
 }
