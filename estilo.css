@@ -121,16 +121,16 @@ html{
     margin: auto;
 }
 .sobremi h2{
-    font-size: 48px;
-    font-family: 'Righteous';
+    font-size: 50px;
+    font-family: 'system-ui';
     text-align: center;
-    padding: 20px 0;
+    padding: 25px 0;
 
 }
 .sobremi .contenido-seccion p{
     font: 18px;
     line-height: 22px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 .sobremi .contenido-seccion p span{
     color: #1CB698;
@@ -145,7 +145,7 @@ html{
 }
 .sobremi .fila .col h3{
     font-size: 28px;
-    font-family: 'Righteous';
+    font-family: 'Work Sans';
     margin-bottom: 25px;
 }
 .sobremi .fila .col ul{
@@ -228,10 +228,10 @@ a#button{
     margin: auto;
 }
 .skills h2{
-    font-size: 48px;
-    font-family: 'Righteous';
+    font-size: 30px;
+    font-family: 'system-ui';
     text-align: center;
-    padding: 20px 0;
+    padding: 50px 0;
 
 }
 .skills .fila{
@@ -242,8 +242,8 @@ a#button{
     padding: 0 20px;
 }
 .skills .fila .col h3{
-    font-size: 28px;
-    font-family: 'Righteous';
+    font-size: 25px;
+    font-family: 'system-ui';
     margin-bottom: 25px;
 }
 .skills .skill > span{
@@ -378,10 +378,10 @@ a#button{
     margin: auto;
 }
 .curriculum h2{
-    font-size: 48px;
-    font-family: 'Righteous';
+    font-size: 60px;
+    font-family: 'system-ui';
     text-align: center;
-    padding: 20px 0;
+    padding: 40px 0;
 
 }
 .curriculum .fila{
@@ -393,8 +393,8 @@ a#button{
     padding: 0 20px;
 }
 .curriculum .fila .col h3{
-    font-size: 28px;
-    font-family: 'Righteous';
+    font-size: 30px;
+    font-family: 'system-ui';
     margin-bottom: 25px;
 }
 .curriculum .fila .izquierda{
@@ -484,10 +484,10 @@ a#button{
     margin: auto;
 }
 .portfolio h2{
-    font-size: 48px;
-    font-family: 'Righteous';
+    font-size: 25px;
+    font-family: 'system-ui';
     text-align: center;
-    padding: 20px 0;
+    padding: 15px 0;
 }
 .portfolio .galeria{
     display: flex;
@@ -542,8 +542,8 @@ a#button{
     margin: auto;
 }
 .contacto h2{
-    font-size: 48px;
-    font-family: 'inherit';
+    font-size: 40px;
+    font-family: 'Work Sans';
     text-align: center;
     padding: 20px 0;
 }
