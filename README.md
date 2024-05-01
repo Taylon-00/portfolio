@@ -1,8 +1,7 @@
 # Portfólio - Taylon
-Site: https://taylon-00.github.io/portfolio/
 
 ```bash
-npm install ruby --save
+https://taylon-00.github.io/portfolio/
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1826F7FF&font=system-ui&size=35&center=true&vCenter=true&width=1000&lines=Oi,+me+chamo+Francisco+Taylon;Estudando+Conteúdo+de+Programação+e+Tecnologia!;Bem-Vindo(a)!;Segue+o+meu+Portfólio)](https://git.io/typing-svg)
